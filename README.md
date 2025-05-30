@@ -6,4 +6,5 @@ This repository contains the solution for the test assignment. The file structur
 - **`Task_2_Requirements.md`** — Task 2 solution: formalization of analysis requirements for the Battle Pass event.  
 - **`Task_3_1_AB_analysis.ipynb`** — Part 1 of Task 3.1: analysis of A/B test results and conclusions.  
 - **`Task_3_1_posttest_analysis.ipynb`** — Part 2 of Task 3.1: additional analysis and hypothesis investigation based on the A/B test results.  
-- **`Task_3_1_for_business_stakeholders.md`** — Report for business stakeholders: concise conclusions aimed at decision-makers.  
+- **`Task_3_1_for_business_stakeholders.md`** — Report for business stakeholders: concise conclusions aimed at decision-makers.
+- **`Task_3_2_predict.ipynb`** — Task 3.2: Forecast on the DAU index for the period of 3 months of 2018
